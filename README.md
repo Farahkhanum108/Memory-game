@@ -1,2 +1,2 @@
 # Memory-game
-Memory Game (JS)
+Memory Game (html,js)
